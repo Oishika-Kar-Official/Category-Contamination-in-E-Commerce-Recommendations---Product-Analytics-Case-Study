@@ -4,6 +4,10 @@
 
 ---
 
+Disclaimer: This is an independent case study using simulated data and is not affiliated with or endorsed by Meesho.
+
+---
+
 ## Overview
 
 While browsing the Meesho app, I clicked on the **Lights** category and received diapers, kitchen items, and other completely unrelated products in the top results. Other categories like Kitchen & Dining returned correctly scoped results — pointing to a **category-specific failure**, not a global pipeline breakdown.
