@@ -119,4 +119,4 @@ The fix does not remove Meesho's monetization lever. Sponsored listings still ge
 
 **Oishika Kar**
 Data Analyst | M.S. Quantitative Economics (UCLA)
-[LinkedIn](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/oishika-kar/)
