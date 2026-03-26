@@ -1,6 +1,6 @@
 # Meesho Recommendation Engine — Category Contamination Audit
 
-**Built by:** Oishika Kar | 2026
+**Built by:** Oishika Kar | March, 2026
 
 ---
 
