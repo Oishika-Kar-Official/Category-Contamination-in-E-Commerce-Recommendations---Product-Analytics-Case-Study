@@ -27,9 +27,9 @@ This asymmetry suggests the issue is tied to **category keyword ambiguity** — 
 ## Repository Structure
 ```
 meesho-recommendation-audit/
-│
-├── Meesho_Recommendation_Audit.ipynb   # Main code notebook
 ├── meesho_dashboard.png                # Static Matplotlib dashboard
+├── Meesho_Recommendation_Audit.ipynb   # Main code notebook
+├── Meesho_Recommendation_Audit.pdf     # PDF of Main code notebook
 └── README.md
 ```
 
