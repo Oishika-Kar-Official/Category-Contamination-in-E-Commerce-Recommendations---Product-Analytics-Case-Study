@@ -28,9 +28,7 @@ This asymmetry suggests the issue is tied to **category keyword ambiguity** — 
 ```
 meesho-recommendation-audit/
 │
-├── Meesho_Recommendation_Audit.ipynb   # Main notebook (all 4 parts)
-├── meesho_interactive_dashboard.html   # Plotly interactive dashboard
-├── meesho_static_dashboard.html        # Styled HTML portfolio page
+├── Meesho_Recommendation_Audit.ipynb   # Main code notebook
 ├── meesho_dashboard.png                # Static Matplotlib dashboard
 └── README.md
 ```
